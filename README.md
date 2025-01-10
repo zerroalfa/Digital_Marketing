@@ -49,7 +49,7 @@ This project will help evaluate the effectiveness of past marketing efforts and 
 
 ### Data Sources
 
-Digital Marketing dataset: The primary dataset used for this analysis is the "Marketing.csv" file, containing detailed information about Airplane Crashes and Fatalities.
+Digital Marketing dataset: The primary dataset used for this analysis is the "Marketing.csv" file, containing detailed information about Digital Marketing.
 
 ### Tools
 
